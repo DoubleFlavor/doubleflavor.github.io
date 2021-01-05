@@ -1,6 +1,6 @@
 # Site settings
-title: 수진 & 유선의 개발일기
-SEOTitle: 개발일기 | SuSeon Blog
+title: 수선집 개발일기
+SEOTitle: 수선집 개발일기 | SuSeon Blog
 header-img: img/home-bg.jpg
 email: suzenyada@gmail.com ysnam19@naver.com
 description: "유선이와 수진이의 개발 일기 아무거나 다 적어적어"
@@ -79,7 +79,7 @@ netease_comment: false
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "적게 일하고 많이 벌자"
-sidebar-avatar: /img/avatar-ss.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar-ss.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
