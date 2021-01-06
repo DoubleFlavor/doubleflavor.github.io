@@ -1,10 +1,10 @@
 # Site settings
-title: 수선집 개발일기
-SEOTitle: 수선집 개발일기 | SuSeon Blog
+title: 윤이네 수선집 개발일기
+SEOTitle: 윤이네 수선집 개발일기 | Yun's SuSeon Blog
 header-img: img/home-bg.jpg
 email: suzenyada@gmail.com ysnam19@naver.com
-description: "유선이와 수진이의 개발 일기 아무거나 다 적어적어"
-keyword: "자료구조, AI, Algorithm, frontend"
+description: "세 가지 맛 개발 일기 아무거나 다 적어적어"
+keyword: "자료구조, 컴퓨터구조, 운영체제, 알고리즘, IT 트렌드, AI, Frontend"
 url: "https://doubleflavored.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -79,7 +79,7 @@ netease_comment: false
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "적게 일하고 많이 벌자"
-sidebar-avatar: /img/avatar-ss.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar-sys.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -106,10 +106,13 @@ friends: [
     #     title: "Su",
     #     href: "http://su.gallery/"
     # },{
-        title: "김수진",
+        title: "Susan Kim",
         href: "https://github.com/gfsusan"
     },{
-        title: "남유선",
+        title: "Yuseon Nam",
         href: "https://github.com/yuseon27"
+    },{
+        title: "Seungyun Lee",
+        href: "https://github.com/sylee515"
     }
 ]
