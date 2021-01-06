@@ -6,10 +6,14 @@
 
 ## Authors
 #### 김수진
-Email  :   
+Email  : suzenyada@gmail.com  
 Github : https://github.com/gfsusan  
   
 #### 남유선
 Email  : ysnam927@gmail.com  
 Github : https://github.com/yuseon27
+
+#### 이승윤
+Email  :   
+Github : https://github.com/sylee515
   
