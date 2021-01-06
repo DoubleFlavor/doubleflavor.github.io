@@ -1,4 +1,4 @@
-# SYSJ's Blog
+# SYS's Blog
 
 > Step by step goes a long way.
 
