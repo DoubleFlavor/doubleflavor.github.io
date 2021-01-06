@@ -1,9 +1,9 @@
-# SYS's Blog
+# Yun's SuSeon Blog
 
 > Step by step goes a long way.
 
 Hi, we are Susan, Yuseon and Seungyun, promising software engineers.  
-Our intersts range from Data Structure, Algorithm to Application Development and Artificial Intelligence. 
+Our intersts range from Data Structure, Algorithm, Operating System to IT Trends, AI, and Frontend. 
 
 ## Authors
 #### Susan Kim
