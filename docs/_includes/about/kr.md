@@ -10,9 +10,9 @@ Email  : suzenyada@gmail.com
 Github : https://github.com/gfsusan  
 
 #### 남유선
-Email  : ysnam927@gmail.com  
+Email  : ysnam917@gmail.com  
 Github : https://github.com/yuseon27
 
 #### 이승윤
-Email  :   
+Email  : seungyun0515@naver.com  
 Github : https://github.com/sylee515  
