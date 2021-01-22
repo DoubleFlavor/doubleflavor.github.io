@@ -4,7 +4,6 @@ subtitle: "자료구조"
 layout: post
 author: "Yuseon"
 header-style: text
-hidden: true
 tags:
   - 자료구조
 ---
