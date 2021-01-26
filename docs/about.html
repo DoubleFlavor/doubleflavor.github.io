@@ -6,10 +6,12 @@ header-img: "img/about-bg-walle.jpg"
 multilingual: true
 ---
 
-{% include multilingual-sel.html %}
+{% if page.multilingual %}
+    {% include multilingual-sel.html %}
+{% endif %}
 
 <!-- Korean Version -->
-<div class="zh post-container">
+<div class="kr post-container">
     {% capture about_kr %}{% include about/kr.md %}{% endcapture %}
     {{ about_kr | markdownify }}
 </div>
@@ -21,7 +23,7 @@ multilingual: true
 </div>
 
 
-{% comment %} {% if site.disqus_username %}
+{% if site.disqus_username %}
 <!-- disqus comment start -->
 <div class="comment">
     <div id="disqus_thread" class="disqus-thread">
@@ -44,4 +46,4 @@ multilingual: true
     })();
 </script>
 <!-- disqus public JS code end -->
-{% endif %} {% endcomment %}
+{% endif %}
